@@ -1,6 +1,6 @@
-# Cowsay Container - v0.5
+# Cowsay Container - v0.6
 # docker run -it -v /tmp:/cow weithenn/cowsay:0.4 bash
-FROM alpine:latest
+FROM alpine:3.6
 
 MAINTAINER tim@sunlight.tw 
 
